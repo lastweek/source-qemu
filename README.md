@@ -19,3 +19,4 @@ PCIe. BIOS. Char. Block. virtio.
 Links:
 
 - https://developer.ibm.com/articles/l-virtio/
+- https://www.redhat.com/en/blog/introduction-virtio-networking-and-vhost-net
