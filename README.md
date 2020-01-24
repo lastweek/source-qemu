@@ -14,6 +14,8 @@ Links:
 
 ## Device
 
-PCIe.
+PCIe. BIOS. Char. Block. virtio.
 
-TODO.
+Links:
+
+- https://developer.ibm.com/articles/l-virtio/
