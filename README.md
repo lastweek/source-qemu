@@ -1,5 +1,6 @@
 # Source-QEMU
 
+http://lastweek.io/notes/virt
 
 ## KVM
 
